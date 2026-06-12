@@ -42,6 +42,9 @@ Forking creates your own copy of this repository in your GitHub account.
 
 Work from your fork so you can save your own notebook changes.
 
+If your instructor gives you a term branch name such as `term/2026-07`, use
+that branch for the current campus section.
+
 ## Clone Your Fork In VS Code
 
 1. Open VS Code.
